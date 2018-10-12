@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BUSUCSAL</string>
+    <string name="roteiro1">Roteiro 1</string>
+    <string name="roteiro2">Roteiro 2</string>
+    <string name="roteiro3">Roteiro 3</string>
+    <string name="roteiro4">Roteiro 4</string>
+    <string name="roteiro5">Roteiro 5</string>
+    <string name="horas">Horas</string>
+    <string name="percuso">Percuso</string>
+    <string name="horasModify">Horas para o BUSUCSAL</string>
+    <string name="percusoModify">Percuso feito pelo BUSUCSAL</string>
+</resources>
